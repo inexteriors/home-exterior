@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HOME EXTERIOR IDEAS.</title>
+    <link>https://inexteriors.github.io/home-exterior/categories/</link>
+    <description>Recent content in Categories on HOME EXTERIOR IDEAS.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://inexteriors.github.io/home-exterior/categories/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exterior design</title>
+      <link>https://inexteriors.github.io/home-exterior/categories/exterior-design/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://inexteriors.github.io/home-exterior/categories/exterior-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home exterior</title>
+      <link>https://inexteriors.github.io/home-exterior/categories/home-exterior/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://inexteriors.github.io/home-exterior/categories/home-exterior/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
